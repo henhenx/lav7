@@ -1,0 +1,18 @@
+===========================
+
+Siapapun yang menjual beli bot ini akan saya akan block bot, jadi gk bisa di pakai lagi!!
+
+/*
+   • No enc? silahkan beli di wa.me/+6281938830020
+   • Jangan di jual beli yak
+*/
+
+
+===========================
+untuk ngedit bot telegram silahkan edit di telegeram/anujs.js
+
+untuk memasukan token silakan masukan di config.js paling bawah
+
+
+
+TOKEN TELE WAJIB DI ISI BIAR GK ERR
